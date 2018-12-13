@@ -1,0 +1,9 @@
+<!--pages/read/read.wxml-->
+<text>pages/read/read.wxml</text>
+<view>
+{{title}}
+<button bindtap='title' >dianwo</button>
+</view>
+<view>
+{{text}}
+</view>
