@@ -1,0 +1,48 @@
+<view class='types' count="types-1">
+<image></image>
+<text>玄幻</text>
+</view>
+<view class='types' count="types-2">
+<image></image>
+<text>奇幻</text>
+</view>
+<view class='types' count="types-3">
+<image></image>
+<text>言情</text>
+</view>
+<view class='types' count="types-4">
+<image></image>
+<text>历史</text>
+</view>
+<view class='types' count="types-5">
+<image></image>
+<text>军事</text>
+</view>
+<view class='types' count="types-6">
+<image></image>
+<text>游戏</text>
+</view>
+<view class='types' count="types-7">
+<image></image>
+<text>科幻</text>
+</view>
+<view class='types' count="types-8">
+<image></image>
+<text>悬疑</text>
+</view>
+<view class='types' count="types-9">
+<image></image>
+<text>体育</text>
+</view>
+<view class='types' count="types-10">
+<image></image>
+<text>生活</text>
+</view>
+<view class='types' count="types-11">
+<image></image>
+<text>二次元</text>
+</view>
+<view class='types' count="types-12">
+<image></image>
+<text>武侠</text>
+</view>

@@ -3,7 +3,9 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/search/search",
-    "pages/read/read"
+    "pages/read/read",
+		"pages/booktype/booktype",
+		"pages/bookdetails/bookdetails"
   ],
   "window": {
     "backgroundTextStyle": "light",

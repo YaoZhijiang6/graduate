@@ -1,0 +1,4 @@
+// booktype.wxml
+Page({
+
+})
